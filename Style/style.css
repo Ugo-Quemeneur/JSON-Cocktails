@@ -1,0 +1,35 @@
+#header {
+    display: flex;
+    color: red;
+}
+
+#logo {
+    width: 3%
+}
+
+#welcome {
+    background-color:#4d99d2;
+    display: flex;
+}
+
+#searchbar {
+    width: 70%;
+}
+
+#choice {
+    display: flex;
+}
+
+#searchbut {
+    display: flex;
+    justify-content: center;
+}
+
+#ingred {
+    margin-left: 50 px;
+}
+
+#corps {
+    background-color: #75dafb;
+}
+
