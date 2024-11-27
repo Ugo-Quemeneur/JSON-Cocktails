@@ -1,6 +1,6 @@
 #header {
     display: flex;
-    color: red;
+    color: #56b6d6;
 }
 
 #logo {
@@ -20,7 +20,7 @@
     display: flex;
 }
 
-#searchbut {
+#searchbarbut {
     display: flex;
     justify-content: center;
 }
